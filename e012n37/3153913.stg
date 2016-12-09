@@ -331,3 +331,6 @@ OBJECT_SHARED Models/Effects/taxilampblue.xml 12.47887 37.91929 6.04 0
 OBJECT_SHARED Models/Effects/taxilampblue.xml 12.47835 37.91961 5.97 0
 OBJECT_SHARED Models/Effects/taxilampblue.xml 12.47783 37.91993 5.88 0
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 12.272284 37.935043 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 12.365309 37.906819 -0.17 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 12.4083333 37.9033333 -2.85 0

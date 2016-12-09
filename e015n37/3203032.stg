@@ -192,3 +192,4 @@ OBJECT_SHARED Models/lib/RampGroup.xml 15.06734 37.46955 6.90 185.69
 #OBJECT_SHARED Models/Airport/Jetway/jetway.xml 15.06503 37.46982 7.60 3.16
 #OBJECT_SHARED Models/Airport/Jetway/jetway.xml 15.06558 37.46965 7.33 3.16
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 15.085122 37.488994 5.47 0

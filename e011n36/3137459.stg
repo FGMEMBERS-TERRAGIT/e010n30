@@ -38,3 +38,4 @@ OBJECT_SHARED Models/lib/chariot5.ac 11.96784 36.81878 176.01 61.26
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 11.96783 36.81863 176.47 94.24
 OBJECT_SHARED Models/lib/loader.ac 11.96755 36.81836 176.78 241.93
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 11.94451 36.835318 3.62 0

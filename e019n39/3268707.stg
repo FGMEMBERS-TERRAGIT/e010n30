@@ -222,3 +222,4 @@ OBJECT_SHARED Models/lib/lamp10m.xml 19.91273 39.61017 -0.21 0
 OBJECT_SHARED Models/lib/lamp10m.xml 19.91295 39.60938 -1.08 0
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 19.91333 39.60966 -1.13 0
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 19.930165 39.623293 6.57 0

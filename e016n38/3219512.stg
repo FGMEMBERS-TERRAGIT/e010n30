@@ -41,3 +41,4 @@ OBJECT_SHARED Models/Transport/hatchback_green.ac 16.24490 38.90930 7.95 73.6102
 OBJECT_SHARED Models/Transport/hatchback_green.ac 16.24895 38.90881 8.88 82.4604
 OBJECT_SHARED Models/Transport/hatchback_green.ac 16.24951 38.90873 9.04 81.3267
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 16.157732 38.952183 19.33 0

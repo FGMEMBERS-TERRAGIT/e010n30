@@ -46,3 +46,4 @@ OBJECT_SHARED Models/Transport/hatchback_green.ac 17.07683 38.99564 156.72 286.8
 OBJECT_SHARED Models/lib/belt_loader.ac 17.07722 38.99554 156.63 15.2553
 OBJECT_SHARED Models/lib/belt_loader.ac 17.07720 38.99557 156.66 194.036
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 17.092812 38.895233 11.66 0
