@@ -1,6 +1,4 @@
 OBJECT_SHARED Models/Airport/ndb.ac 15.650269 38.012922 93.19 180
-OBJECT_SHARED Models/Airport/ils.xml 15.664528 38.045722 77.78 199.17
-OBJECT_SHARED Models/Communications/vordme_1.xml 15.645494 38.075844 17.81 180
 OBJECT_SHARED Models/Airport/marker.ac 15.650269 38.012922 93.19 180
 OBJECT_SHARED Models/Airport/marker.ac 15.661308 38.037953 31.83 180
 # dsf2stg
@@ -49,3 +47,5 @@ OBJECT_SHARED Models/lib/container6-HD.ac 15.65402 38.07252 18.14 28.18
 OBJECT_SHARED Models/lib/cargo-container1-HD.ac 15.65374 38.07341 18.82 117.95
 OBJECT_SHARED Models/lib/fuel-truck.xml 15.65120 38.07484 19.73 205.56
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 15.664528 38.045722 77.78 199.17
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 15.645293 38.076537 18.99 180

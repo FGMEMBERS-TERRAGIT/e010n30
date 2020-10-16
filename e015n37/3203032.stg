@@ -1,7 +1,5 @@
 OBJECT_SHARED Models/Airport/ndb.ac 15.062556 37.463639 8.07 180
-OBJECT_SHARED Models/Airport/ils.xml 15.058306 37.464611 10.78 275.22
 OBJECT_SHARED Models/Communications/vordme_1.xml 15.058389 37.464556 10.7 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 15.0625 37.464444 8.35 180
 OBJECT_SHARED Models/Airport/localizer.xml 15.082 37.468083 6.03 173.98
 # dsf2stg
 # do not edit below this line
@@ -191,4 +189,6 @@ OBJECT_SHARED Models/lib/RampParking.xml 15.06801 37.46948 6.84 185.93
 OBJECT_SHARED Models/lib/RampGroup.xml 15.06734 37.46955 6.95 185.69
 OBJECT_SHARED Models/lib/jetway_e16m.ac 15.06407 37.47017 8.12 226.66
 # END dsf2stg
+OBJECT_SHARED Models/Airport/EUROPOLES_GLS.xml 15.058306 37.464611 10.78 275.22
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 15.0625 37.464444 8.35 180
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 15.085122 37.488994 5.47 0

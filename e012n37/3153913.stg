@@ -1,5 +1,4 @@
 OBJECT_SHARED Models/Airport/ndb.ac 12.492972 37.914333 6.26 180
-OBJECT_SHARED Models/Airport/ils.xml 12.495767 37.907769 7.39 52.36
 OBJECT_SHARED Models/Communications/vordme_1.xml 12.472119 37.921081 3.88 180
 OBJECT_SHARED Models/Airport/localizer.xml 12.472119 37.921081 3.88 37.75
 # dsf2stg
@@ -334,3 +333,4 @@ OBJECT_SHARED Models/Effects/taxilampblue.xml 12.47783 37.91993 5.68 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 12.272284 37.935043 -2.4 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 12.365309 37.906819 -0.17 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 12.4083333 37.9033333 -2.85 0
+OBJECT_SHARED Models/Airport/LOWI_ILS_glideslope2.xml 12.495767 37.907769 7.39 52.36
