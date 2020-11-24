@@ -2,3 +2,11 @@ OBJECT_SHARED Models/Airport/ndb.ac 10.309639 36.824861 1.39 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 10.282222 36.794167 -393.24 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 10.282778 36.795278 -388.96 180
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 10.3833 36.7833 -6.4 133.34
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 10.25133 36.84538 2.79 27.07
+OBJECT_SHARED Models/lib/lamp10m.xml 10.25089 36.84598 3.62 26.65
+OBJECT_SHARED Models/lib/lamp10m.xml 10.25054 36.84646 3.37 29.22
+OBJECT_SHARED Models/lib/lamp10m.xml 10.25011 36.84706 3.43 26.94
+# END dsf2stg
